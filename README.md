@@ -14,4 +14,6 @@ Once an order has been placed the application checks to see if the store has eno
 
 However, if the store does have enough of the product, It will fulfill the user’s order showing the total price and quantity of the order as well as updating the SQL database to reflect the new quantity.
 
-![Screenshot](Screen Shot 2019-07-02 at 09.29.06)
+![alt text](https://github.com/ChristianHPak/bamazon/blob/master/images/Screen%20Shot%202019-07-02%20at%2009.29.06.png?raw=true)
+
+![alt text](https://github.com/ChristianHPak/bamazon/blob/master/images/Screen%20Shot%202019-07-02%20at%2009.45.37.png?raw=true)
